@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapLocation</string>
+    <color name="dark">#3A3838</color>
+    <color name="button">#2196F3</color>
+</resources>
